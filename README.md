@@ -2,8 +2,6 @@
 ### by [@sasha.tigresa](https://www.instagram.com/sasha.tigresa/)<br>
 Free Artist Page Template for DJs and Artists
 
-# Artist Frontpage Template
-
 ![GitHub Pages Preview](https://sasha-astiadi.github.io/artist_frontpage/)
 
 The Artist Frontpage template is a simple, elegant, and responsive website template designed for artists and creative professionals to showcase their work and portfolio. This template is built using HTML, CSS, and JavaScript and is hosted on GitHub Pages for easy deployment.
